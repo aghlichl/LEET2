@@ -5,4 +5,5 @@ function LeetTwo(x){
     if(x===x/x){
         return true;
     }
+    //checking the internal git extensions on vscode
 }
